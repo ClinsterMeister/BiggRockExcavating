@@ -1,0 +1,7 @@
+#Prerequisites
+Python v3 + installed
+
+1. Open Command Prompt
+2. Navigate to root folder of web project
+3. Run command: 'py -m http.server'
+4. Open broswer and go to http://localhost:8000/
